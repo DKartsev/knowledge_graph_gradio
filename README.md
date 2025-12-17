@@ -41,7 +41,7 @@
 
 ### Запуск приложения
 
-1. Откройте файл `knowledge_graph_gradio.ipynb` в Jupyter Notebook или Google Colab
+1. Откройте файл `knowledge_graph_gradio.ipynb` в Jupyter Notebook или [Google Colab](https://colab.research.google.com/drive/17g40FRChGVNMdOMtwCmWLSPZd15iWfjy?usp=sharing)
 2. Запустите все ячейки последовательно
 3. После выполнения последней ячейки откроется веб-интерфейс Gradio
 
